@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24773#Wonderlijke-avonturen-van-een-Chinees-gevolgd-door-Muiterij-aan-boord-der-Bounty-
 gutenberg_issued: '2008-03-07'
 gutenberg_type: Text
 identifiers:
